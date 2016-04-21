@@ -4,9 +4,21 @@
     <groupId>math.jwave</groupId>
     <artifactId>JWave</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1</version>
     <name>JWave</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/cscheiblich/JWave</url>
+    <licenses>
+        <license>
+            <name>MIT</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Christian Scheiblich</name>
+        </developer>
+    </developers>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
